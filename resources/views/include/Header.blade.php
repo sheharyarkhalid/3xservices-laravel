@@ -37,7 +37,7 @@
                     <a href="mailto:info@3xservices.com"><i class="fas fa-envelope-open"></i></a>
                     <a href="tel:03104701882"><i class="fas fa-phone-alt"></i></a>
                 </div>
-                <span><a>Book a Demo</a></span>
+                <span><a>Get a free quote today!</a></span>
             </div>
         </div>
     </div>
