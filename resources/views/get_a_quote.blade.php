@@ -8,12 +8,10 @@
         <div class="inner_banner_box">
             <div class="inner_banner_figcaption">
                 <h4>
-                    How We Can Help You Today?
-
+                    Turn Your Ideas Into Reality
+                    
                 </h4>
-                <p>If there is anything you want to talk about, please do not hesitate to
-                    contact us. Even if you just want to say hello, we look forward to hearing
-                    from you!</p>
+                <p>3xservices is a full-stack software development company that helps you bring your ideas to life. From concept to execution, our experienced developers will work with you to create the perfect solution that meets your needs and expectations.</p>
             </div>
             <figure><img src="images/mobile-website-img.png"></figure>
         </div>

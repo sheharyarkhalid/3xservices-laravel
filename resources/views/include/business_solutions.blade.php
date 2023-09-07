@@ -37,6 +37,10 @@
         <a class='nav-link' id='business-solutions-pills-4-tab' data-toggle='tab' href='#business-solutions-pills-tab-4' 
         role='tab' aria-controls='business-solutions-pills-tab-4' aria-selected='false'> <img src="images/full-stack-icon.svg">WordPress</a>
       </li> 
+      <li class="nav-item">
+        <a class='nav-link' id='business-solutions-pills-5-tab' data-toggle='tab' href='#business-solutions-pills-tab-5' 
+        role='tab' aria-controls='business-solutions-pills-tab-5' aria-selected='false'> <img src="images/service5.png">Digital Marketing</a>
+      </li> 
     </ul>
     
 
@@ -115,6 +119,28 @@
    
          <p>Save time and money by taking advantage of our expertise and experience in building websites that are optimized for success. With our tailored solutions, you can quickly and easily create an amazing website for your business.
         </p>
+          
+           <p>
+            Don't wait any longer, get started now!</p>
+        
+          </div>
+          
+          </div>
+       </div>
+
+       <div class="tab-pane fade" id="business-solutions-pills-tab-5" role="tabpanel" aria-labelledby="business-solutions-pills-5-tab">
+        <div class="business_solutions_detail">
+       
+           <figure><img src="images/ipad.png"></figure>
+          <div class="business_solutions_data">
+          <h2>Empowering Your Business Growth</h2>
+        
+
+          <p>At 3X Services, we believe that every business deserves a digital marketing partner that is committed to achieving their online goals. We are a full-service digital marketing agency dedicated to providing our clients with result-driven solutions that are tailored to their unique needs.</p>
+
+          <p>With our team of experienced and skilled professionals, we have successfully helped businesses of all sizes, across various industries, to grow and achieve their objectives. We pride ourselves on our ability to stay ahead of the curve in the ever-changing world of digital marketing, leveraging the latest tools and strategies to help our clients achieve maximum results.</p>
+
+          <p>Our services include a wide range of digital marketing solutions, including search engine optimization, social media marketing, pay-per-click advertising, content marketing, email marketing, and more. We work closely with our clients to develop a comprehensive strategy that aligns with their business objectives and budget, ensuring that they achieve the best possible ROI</p>
           
            <p>
             Don't wait any longer, get started now!</p>

@@ -25,3 +25,6 @@ Route::get('/about', function () {
 Route::get('/contact', function () {
     return view('contact',array('title'=>'Contact'));
 });
+Route::get('/get-a-quote', function () {
+    return view('get_a_quote',array('title'=>'Get A Quote'));
+});
